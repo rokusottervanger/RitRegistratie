@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">RitRegistratie</string>
+@string/edit_message
+    <string name="title_activity_main">Invoer</string>
+
+    <!-- General -->
+    <string name="and">en</string>
+
+    <!-- Menu for entering start data -->
+    <string name="trip_name_hint">Een naam voor de rit</string>
+    <string name="start_number_hint">Beginstand</string>
+    <string name="button_select_driver">Kies reiziger(s)</string>
+    <string name="no_chosen_drivers">Geen reizigers geselecteerd</string>
+    <string name="chosen_drivers">Geselecteerde reiziger(s):</string>
+    <string name="button_send">Invullen</string>
+
+    <!-- Warning for no driver selected -->
+    <string name="no_driver_warning_title">Geen reizigers</string>
+    <string name="no_driver_warning_text">U kunt pas doorgaan als u ten minste één reiziger geselecteerd heeft.</string>
+
+    <!-- Dialog for choosing driver -->
+    <string name="ok">Klaar</string>
+    <string name="cancel">Annuleren</string>
+    <string name="title_dialog_pick_driver">Reizigers(s)</string>
+    <string-array name="possible_drivers">
+        <item>Lieke</item>
+        <item>Rokus</item>
+    </string-array>
+
+    <!-- Wrote data toast -->
+    <string name="wrote_data">Data ingevoerd</string>
+
+    <!-- Menu for entering end data -->
+    <string name="trip_name_show">Ritnaam:</string>
+    <string name="drivers_show">Reizigers:</string>
+    <string name="start_number_show">Beginstand:</string>
+    <string name="end_number_hint">Eindstand</string>
+
+    <string name="action_settings">Instellingen</string>
+    <string name="title_activity_enter_end">Eindstand</string>
+
+
+</resources>
